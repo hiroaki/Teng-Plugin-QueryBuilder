@@ -1,0 +1,8 @@
+Changes
+MANIFEST
+Makefile.PL
+README.md
+lib/Teng/Plugin/QueryBuilder.pm
+lib/Teng/Plugin/QueryBuilder/SQL.pm
+lib/Teng/Plugin/QueryBuilder/SQL/Oracle.pm
+t/004_sql.t
